@@ -1,2 +1,0 @@
-SHA1(Ubuntu 64-bit John Smith.ovf)= 849dff18f129c6e905e93182a267bad8590ab332
-SHA1(Ubuntu_64-bit_John_Smith-disk1.vmdk)= 0abf658210ad64f53ac3cf1e994d3bfb0abcda9c
